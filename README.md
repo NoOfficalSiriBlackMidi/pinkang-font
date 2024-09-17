@@ -35,7 +35,7 @@ open 粉圓（解決繁體字）：https://justfont.com/huninn/
 
 遍黑體（解決變體假名）：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project
 
-台灣圓體：https://github.com/max32002/TaiwanPearl
+台灣圓體（解決一些生僻字）：https://github.com/max32002/TaiwanPearl
 
 Fredoka（讓英文字與半形標點符號更不一樣）：https://fonts.google.com/specimen/Fredoka
 
