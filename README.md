@@ -13,6 +13,8 @@
 
 由於字體glyph限制最高只能到達「65535」個，所以字體會分段成「甲」、「乙」、「丙」、「丁」
 
+會支援的編碼包括一些字符：Big-5、GBK、GB18030
+
 ## 分段列表
 
 甲：使用第〇平面
@@ -25,14 +27,14 @@
 
 ## 下載地方：
 
-open 粉圓：https://justfont.com/huninn/
+open 粉圓（解決繁體字）：https://justfont.com/huninn/
 
-猫啃网糖圆体：https://www.maoken.com/tangyuan
+猫啃网糖圆体（解決簡體字）：https://www.maoken.com/tangyuan
 
-思源黑體：https://fonts.google.com/noto/specimen/Noto+Sans+KR
+思源黑體（解決韓文字）：https://fonts.google.com/noto/specimen/Noto+Sans+KR
 
-遍黑體：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project
+遍黑體（解決變體假名）：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project
 
-Fredoka：https://fonts.google.com/specimen/Fredoka
+Fredoka（讓英文字與半形標點符號更不一樣）：https://fonts.google.com/specimen/Fredoka
 
 ## 字體展示：
